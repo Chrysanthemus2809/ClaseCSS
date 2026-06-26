@@ -16,6 +16,8 @@ p {
     margin:0rem 18rem 0rem 18rem;
     border: 0.3rem white ridge;
     border-radius:2rem ;
+    display: inline-block;
+    padding: 1rem 1rem;
 }
 
 .Cursiva {
