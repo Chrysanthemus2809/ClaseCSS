@@ -1,0 +1,36 @@
+body {
+    background-color: #000;
+    color:rgb(238, 202, 85);
+    padding:0rem 1rem 1rem 1rem;
+    
+}
+p {
+    font-size:3rem;
+}
+
+.titulo {
+    color:rgb(166, 218, 23); /*Esto pone Azul todos los titulos*/
+    font-size:1rem;
+    text-align: center;
+    background-color: rgb(36, 70, 121);
+    margin:0rem 18rem 0rem 18rem;
+    border: 0.3rem white ridge;
+    border-radius:2rem ;
+}
+
+.Cursiva {
+    font-style:italic; /*Esto hace cursivo todo lo "Cursiva*/
+    font-size:1rem;}
+
+.Negrita {
+    font-weight:bold; /*Esto lo hace negrita*/
+    font-size:1rem;}
+
+.Tamaño {
+    font-size:1rem; /*Tamaño de letra*/
+    font-family:'Times New Roman', Times, serif
+    
+}
+ 
+
+
