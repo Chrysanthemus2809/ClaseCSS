@@ -52,7 +52,7 @@ p {
     margin: 0;
     padding:0;
 }
-@media (max-width: 3000px) {
+@media (max-width: 768px) {
     .titulo, .sub {
         display:block;
         margin:1.5rem auto;
