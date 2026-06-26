@@ -5,7 +5,7 @@ body {
     
 }
 p {
-    font-size:3rem;
+    font-size:50px;
 }
 
 .titulo {
@@ -19,6 +19,7 @@ p {
     width:90%;
     max-width:400px;
     padding:1rem 1rem 1rem 1rem;
+    font-size:20px;
 }
 
 .sub {
@@ -32,6 +33,7 @@ p {
     padding: 1rem 1rem 1rem 1rem;
     width:90%;
     max-width:400px;
+    font-size:20px;
 }
 .Cursiva {
     font-style:italic; /*Esto hace cursivo todo lo "Cursiva*/
