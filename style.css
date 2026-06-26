@@ -57,7 +57,7 @@ p {
         display:block;
         margin:1.5rem auto;
         width: 90%;
-        max-width: 95%;
+        max-width: none;
     }
 }
 
