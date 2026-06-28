@@ -69,6 +69,7 @@ p {
     .titulo, .sub {
         display:block;
         margin:1.5rem auto;
+        height: 80%;
         width: 80%;
         max-width: none;
         background-size: cover;
