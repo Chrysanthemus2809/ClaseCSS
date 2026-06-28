@@ -1,7 +1,7 @@
 body {
     background-color: #000;
     color:rgb(238, 202, 85);
-    padding:0rem 1rem 0rem 1rem;
+    padding:1rem 0rem 1rem 1rem;
     
 }
 p {
@@ -9,17 +9,23 @@ p {
 }
 
 .titulo {
-    color:rgb(166, 218, 23); /*Esto pone Azul todos los titulos*/
+    color:rgb(21, 27, 5); /*Esto pone Azul todos los titulos*/
     text-align: center;
-    background-color: rgb(36, 70, 121);
-    margin:0rem 0rem 0rem 0rem;
+    background-image: url("1.jpg");
+    background-size:cover;
+    background-repeat: repeat-x;
+   /*  opacity: 0.5; */
+   /*  background-position: left top 2rem ; */
+    /* background-color: rgb(36, 70, 121); */
+    margin:0rem 1rem 0rem 0rem;
     border: 0.3rem white ridge;
     border-radius:2rem ;
-    display: inline-block; 
-    width:90%;
-    max-width:400px;
-    padding:1rem 1rem 1rem 1rem;
-    font-size:20px;
+    display: inline-block;
+    height:350px;
+    width:400px;
+    /* max-width:400px; */
+    padding:1rem 1.5rem 1rem 1rem;
+    font-size:auto;
 }
 
 .sub {
@@ -31,9 +37,10 @@ p {
     border-radius:2rem ;
     display: inline-block;
     padding: 1rem 1rem 1rem 1rem;
-    width:90%;
-    max-width:400px;
-    font-size:20px;
+    height:350px;
+    width:400px;
+   /*  max-width:400px; */
+    font-size:auto;
 }
 .Cursiva {
     font-style:italic; /*Esto hace cursivo todo lo "Cursiva*/
@@ -52,6 +59,12 @@ p {
     margin: 0;
     padding:0;
 }
+
+.margen {
+    /* font-size:2rem; */
+
+}
+
 @media (max-width: 768px) {
     .titulo, .sub {
         display:block;
@@ -60,8 +73,6 @@ p {
         max-width: none;
     }
 }
-
-
 
  
 
