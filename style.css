@@ -1,7 +1,7 @@
 body {
     background-color: #000;
     color:rgb(238, 202, 85);
-    padding:1rem 0rem 1rem 1rem;
+    padding:1rem 1rem 1rem 1rem;
     
 }
 p {
@@ -17,7 +17,7 @@ p {
    /*  opacity: 0.5; */
    /*  background-position: left top 2rem ; */
     /* background-color: rgb(36, 70, 121); */
-    margin:0rem 1rem 0rem 0rem;
+    margin:0rem 1rem 1rem 0rem;
     border: 0.3rem white ridge;
     border-radius:2rem ;
     display: inline-block;
